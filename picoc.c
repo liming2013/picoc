@@ -30,7 +30,7 @@ int main(int argc, char **argv)
                "Format:\n\n"
                "> picoc <file1.c>... [- <arg1>...]    : run a program, calls main() as the entry point\n"
                "> picoc -s <file1.c>... [- <arg1>...] : run a script, runs the program without calling main()\n"
-               "> picoc -i                            : interactive mode, Ctrl+d to exit\n"
+               "> picoc -i                            : interactive mode, Ctrl+c to exit\n"
                "> picoc -c                            : copyright info\n"
                "> picoc -h                            : this help message\n");
         return 0;

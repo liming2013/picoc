@@ -1,0 +1,26 @@
+﻿  clibrary.c
+  ctype.c
+  errno.c
+  math.c
+  stdbool.c
+  stdio.c
+  stdlib.c
+  string.c
+  time.c
+  debug.c
+  expression.c
+  heap.c
+  include.c
+  lex.c
+  parse.c
+  picoc.c
+  platform.c
+  library_msvc.c
+  platform_msvc.c
+  table.c
+  正在编译...
+  type.c
+  variable.c
+  正在生成代码
+  已完成代码的生成
+  picoc.vcxproj -> C:\Users\金威\Documents\picoc-github\msvc\picoc\Release\picoc.exe

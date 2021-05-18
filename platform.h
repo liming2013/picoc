@@ -63,7 +63,7 @@
 #define LOCAL_TABLE_SIZE (11)                 /* size of local variable table (can expand) */
 #define STRUCT_TABLE_SIZE (11)                /* size of struct/union member table (can expand) */
 
-#define INTERACTIVE_PROMPT_START "starting picoc " PICOC_VERSION " (Ctrl+D to exit)\n"
+#define INTERACTIVE_PROMPT_START "starting picoc " PICOC_VERSION " (Ctrl+C to exit)\n"
 #define INTERACTIVE_PROMPT_STATEMENT "picoc> "
 #define INTERACTIVE_PROMPT_LINE "     > "
 
