@@ -13,7 +13,7 @@
 #include <setjmp.h>
 #include <math.h>
 #include <stdbool.h>
-#include <stdint.h>
+#include <stdint.h>	
 
 /* host platform includes */
 #ifdef UNIX_HOST
